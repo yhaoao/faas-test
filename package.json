@@ -1,0 +1,25 @@
+{
+  "name": "faas-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yhaoao/faas-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yhaoao/faas-test/issues"
+  },
+  "faas": {
+    "domain": "test",
+    "description": "faas test",
+    "author_name": "hao yao",
+    "author_email": "hao.yao@ele.me"
+  },
+  "homepage": "https://github.com/yhaoao/faas-test#readme"
+}

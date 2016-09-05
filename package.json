@@ -16,6 +16,7 @@
     "url": "https://github.com/yhaoao/faas-test/issues"
   },
   "faas": {
+    "public": "dist",
     "domain": "test",
     "description": "faas test",
     "author_name": "hao yao",
